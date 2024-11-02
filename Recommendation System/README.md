@@ -1,6 +1,6 @@
-## Recommendation System
+# Recommendation System
 
-# Data Description:
+## Data Description:
 
 Unique ID of each anime.
 
@@ -16,17 +16,17 @@ The average rating for each anime compared to the number of users who gave ratin
 
 Number of community members for each anime.
 
-# Objective:
+## Objective:
 
 The objective of this assignment is to implement a recommendation system using cosine similarity on an anime dataset. 
 
-# Dataset:
+## Dataset:
 
 Use the Anime Dataset which contains information about various anime, including their titles, genres,No.of episodes and user ratings etc.
 
-# Tasks:
+## Tasks:
 
-Data Preprocessing:
+### Data Preprocessing:
 
 Load the dataset into a suitable data structure (e.g., pandas DataFrame).
 
@@ -39,7 +39,7 @@ Explore the dataset to understand its structure and attributes.
 ![image](https://github.com/user-attachments/assets/c011a26b-849b-40a5-b19c-2986b291c887)
 
 
-Feature Extraction:
+### Feature Extraction:
 
 Decide on the features that will be used for computing similarity (e.g., genres, user ratings).
 
@@ -51,7 +51,7 @@ Normalize numerical features if required.
 ![image](https://github.com/user-attachments/assets/f25fcab4-079e-4450-a41f-77efed4e1322)
 
 
-Recommendation System:
+### Recommendation System:
 
 Design a function to recommend anime based on cosine similarity.
 
@@ -60,7 +60,7 @@ Given a target anime, recommend a list of similar anime based on cosine similari
 Experiment with different threshold values for similarity scores to adjust the recommendation list size.
 
 
-Evaluation:
+### Evaluation:
 
 Split the dataset into training and testing sets.
 
