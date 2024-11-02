@@ -39,12 +39,16 @@ Tasks:
 
 ●	Detect and treat outliers if necessary.
 
+![image](https://github.com/user-attachments/assets/3b2c01c4-e3b9-4f2c-a287-5fe22ab524df)
+
 
 2.	Statistical Summary:
 
 ●	Provide a statistical summary for each variable in the dataset, including measures of central tendency (mean, median) and dispersion (standard deviation, interquartile range).
 
 ●	Highlight any interesting findings from this summary.
+
+![image](https://github.com/user-attachments/assets/734bb9ed-7db1-4b3d-912a-036090d5cdac)
 
 
 3.	Data Visualization:
@@ -57,6 +61,9 @@ Tasks:
 
 ●	Employ advanced visualization techniques like pair plots, or violin plots for deeper insights.
 
+![image](https://github.com/user-attachments/assets/a3cd9dae-6394-4595-b332-dfd455b8b790)
+![image](https://github.com/user-attachments/assets/44675a07-77b0-49a9-821b-912cb53419ed)
+
 
 4.	Pattern Recognition and Insights:
 
@@ -64,4 +71,13 @@ Tasks:
 
 ●	Look for trends or patterns over time if temporal data is available.
 
+![image](https://github.com/user-attachments/assets/64ed159a-59ae-45a3-a534-4101dfc66aa4)
 
+
+5. Conclusion:
+
+The exploratory analysis revealed significant correlations among various fetal health metrics. Notably, strong positive correlations between fetal movement (`FM`) and accelerations (`AC`) suggest that increased fetal activity is linked to improved heart rate patterns. Additionally, the identification of outliers highlighted data points that deviate from expected norms, prompting further investigation into their validity.
+
+These findings have important clinical implications; they can inform healthcare providers about the critical relationships between monitored variables, potentially leading to improved fetal monitoring practices. Trends observed over time may indicate advancements or declines in specific metrics, guiding resource allocation and clinical decision-making.
+
+Overall, the insights gained from this analysis provide a valuable foundation for developing predictive models, shaping policies, and identifying areas for further research, ultimately contributing to enhanced outcomes in fetal health monitoring and maternal care.
