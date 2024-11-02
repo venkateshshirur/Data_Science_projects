@@ -45,9 +45,11 @@ Taskes:
 
 
 4.Evaluate the performance of the model using appropriate evaluation metrics on the testing dataset.
+
 ![image](https://github.com/user-attachments/assets/478886cf-63b6-41ae-a2b3-3292aa543e08)
 
 
 5.Apply Lasso and Ridge methods on the model.
+
 ![image](https://github.com/user-attachments/assets/7f40f3e6-1a63-41dc-951e-dea6def97ccc)
 
