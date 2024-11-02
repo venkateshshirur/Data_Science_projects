@@ -1,6 +1,8 @@
 EXPLORATORY DATA ANALYSIS ON A DATASET
+
 Objective:
 The main goal of this assignment is to conduct a thorough exploratory analysis of the "cardiographic.csv" dataset to uncover insights, identify patterns, and understand the dataset's underlying structure. You will use statistical summaries, visualizations, and data manipulation techniques to explore the dataset comprehensively.
+
 Dataset:
 1.	LB - Likely stands for "Baseline Fetal Heart Rate (FHR)" which represents the average fetal heart rate over a period.
 2.	AC - Could represent "Accelerations" in the FHR. Accelerations are usually a sign of fetal well-being.
@@ -16,9 +18,13 @@ Dataset:
 
 
 Tools and Libraries:
+
 ●	Python or R programming language
+
 ●	Data manipulation libraries 
+
 ●	Data visualization libraries (Matplotlib and Seaborn in Python)
+
 ●	Jupyter Notebook for documenting your analysis
 
 
