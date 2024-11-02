@@ -33,6 +33,7 @@ Load the dataset into a suitable data structure (e.g., pandas DataFrame).
 Handle missing values, if any.
 
 Explore the dataset to understand its structure and attributes.
+
 ![image](https://github.com/user-attachments/assets/106c347e-609c-49a7-8891-28be16ceddc8)
 
 
@@ -46,6 +47,7 @@ Decide on the features that will be used for computing similarity (e.g., genres,
 Convert categorical features into numerical representations if necessary.
 
 Normalize numerical features if required.
+
 ![image](https://github.com/user-attachments/assets/2927e2a6-4cf4-47c6-8eeb-6da5a1fa0577)
 
 ![image](https://github.com/user-attachments/assets/f25fcab4-079e-4450-a41f-77efed4e1322)
